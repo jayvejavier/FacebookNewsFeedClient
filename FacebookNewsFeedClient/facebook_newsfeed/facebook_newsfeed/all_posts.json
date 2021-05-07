@@ -1,0 +1,43 @@
+{
+	"posts": [
+				{ 
+					"name": "",
+					"location": {
+						"city": "",
+						"state": ""
+					},
+					"profileImageName": "",
+					"statusText": "",
+					"statusImageName": "",
+					"numLikes": "",
+					"numComments": ,
+					"statusImageUrl": ""
+				},
+				{ 
+					"name": "",
+					"location": {
+						"city": "",
+						"state": ""
+					},
+					"profileImageName": "",
+					"statusText": "",
+					"statusImageName": "",
+					"numLikes": "",
+					"numComments": ,
+					"statusImageUrl": ""
+				},
+				{ 
+					"name": "",
+					"location": {
+						"city": "",
+						"state": ""
+					},
+					"profileImageName": "",
+					"statusText": "",
+					"statusImageName": "",
+					"numLikes": "",
+					"numComments": ,
+					"statusImageUrl": ""
+				}
+			]
+}

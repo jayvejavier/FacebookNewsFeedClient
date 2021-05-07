@@ -1,0 +1,14 @@
+{
+	"post": { 
+		"name": "Mark Zuckerberg",
+        "location": {
+            "city": "San Francisco",
+            "state": "CA"
+        },
+		"profileImageName": "markzuckerberg_profile",
+		"statusText": "Meanwhile, Beast turned to dark side.",
+		"statusImageName": "American_Eskimo_Dog",
+		"numLikes": 400,
+		"numComments": 123
+	}	
+}
